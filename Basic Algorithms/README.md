@@ -1,1 +1,3 @@
-# Basic Algorithms for Beginners
+README.md
+
+'BASIC ALGORITHMS FOR BEGINNERS'
